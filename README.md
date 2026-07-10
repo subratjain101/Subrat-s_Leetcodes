@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -43,5 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+## Sliding Window
+|  |
+| ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 <!---LeetCode Topics End-->
