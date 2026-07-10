@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
