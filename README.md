@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
