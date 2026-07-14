@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
