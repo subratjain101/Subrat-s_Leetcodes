@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -38,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -86,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
