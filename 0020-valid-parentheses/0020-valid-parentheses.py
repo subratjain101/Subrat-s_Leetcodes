@@ -1,0 +1,14 @@
+class Solution(object):
+    def isValid(self, s):
+        stack=[]
+        par={")":"(","]":"[","}":"{"}
+        for c in s:
+            if c in par:
+                if stack and stack[-1] == par[c]:
+                    stack.pop()
+                else:
+                    return False
+            else:
+                stack.append(c)
+        return True if not stack else False
+        
