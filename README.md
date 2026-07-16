@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
