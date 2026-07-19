@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Simulation
 |  |
