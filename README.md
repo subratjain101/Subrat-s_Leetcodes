@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0518-coin-change-ii](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
 | ------- |
