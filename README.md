@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2895-minimum-processing-time](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2895-minimum-processing-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2785-sort-vowels-in-a-string) |
+| [2895-minimum-processing-time](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2895-minimum-processing-time) |
 ## Counting Sort
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [2895-minimum-processing-time](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2895-minimum-processing-time) |
 <!---LeetCode Topics End-->
