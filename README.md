@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
