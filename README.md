@@ -85,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0412-fizz-buzz) |
+| [0784-letter-case-permutation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0784-letter-case-permutation) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1189-maximum-number-of-balloons](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [2785-sort-vowels-in-a-string](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2785-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0784-letter-case-permutation) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Sliding Window
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2895-minimum-processing-time](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/2895-minimum-processing-time) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
