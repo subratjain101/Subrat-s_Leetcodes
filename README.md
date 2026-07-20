@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0322-coin-change) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/subratjain101/Subrat-s_Leetcodes/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
